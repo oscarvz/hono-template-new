@@ -1,0 +1,4 @@
+.app {
+  width: min(600px, 100%);
+  margin-inline: auto;
+}
